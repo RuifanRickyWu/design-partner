@@ -1,0 +1,16 @@
+{
+  "$schema": "https://www.schemastore.org/claude-code-marketplace.json",
+  "name": "design-partner-skills",
+  "description": "和 Claude 一起设计页面：聊清楚信息需求和视觉动线，生图出参考，出 HTML 稿，改到定稿",
+  "owner": {
+    "name": "RuifanRickyWu"
+  },
+  "plugins": [
+    {
+      "name": "design-partner",
+      "description": "先聊清楚信息需求和视觉动线，再用 AI 生图、生视频出参考，做成 HTML 稿，一起改到定稿",
+      "source": "./",
+      "category": "productivity"
+    }
+  ]
+}
